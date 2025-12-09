@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Zero Origin Tee — Classic",
+      "price": 145000,
+      "discount_percent": 13.8,
+      "discount_price": 125000,
+      "colors": ["White", "Black"],
+      "image": "vr.png"
+    }
+  ]
+}
